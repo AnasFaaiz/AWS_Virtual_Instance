@@ -4,6 +4,8 @@
 
 This project demonstrates how to **launch a Linux EC2 instance on AWS** and **connect to it via SSH from a local Linux machine** (or WSL on Windows). We also install a simple web server (Nginx) to test connectivity.
 
+Youtube Link: https://www.youtube.com/watch?v=37Md9QyovF4&t=42s
+
 ---
 
 ## Prerequisites
